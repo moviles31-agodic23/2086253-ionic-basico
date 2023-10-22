@@ -1,0 +1,30 @@
+ion-grid {
+    position: relative;
+    width: 350px;
+    left: 0;
+    right: 0;
+    border-style: solid;
+    border-color: black;
+    border-radius: 5%;
+}
+
+ion-row {
+    margin: 5px;
+    height: 60px;
+}
+
+ion-col {
+    display: flex;
+    align-items: center;
+    margin: 5px;
+    text-align: left;
+}
+
+h1 {
+    font-weight: bold;
+    color: rgb(212, 0, 212);
+}
+
+img {
+    height: 54px;
+}
